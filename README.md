@@ -1,5 +1,5 @@
 # desafio-meu-emprego-automacao-UI
-Este projeto desenvolvido em Java na IDE Eclipse tem como objetivo concluir desafios específicos no site DemoQA, como parte do processo de busca por emprego. Automatiza testes em alertas, modal e formulário, demonstrando habilidades técnicas e comprometimento com a qualidade do trabalho.
+Este projeto desenvolvido em Java na IDE Eclipse tem como objetivo concluir desafios específicos no site DemoQA, como parte do processo de busca por emprego. Automatiza testes em alerts, modal e formulário, demonstrando habilidades técnicas e comprometimento com a qualidade do trabalho.
 
 
 ## Tecnologias utilizadas no projeto:
